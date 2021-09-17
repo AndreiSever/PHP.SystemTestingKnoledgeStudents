@@ -1,0 +1,13 @@
+<label class="checkbox">
+  <input type="checkbox" value="">
+  Выберите—для бла бла бла...
+</label>
+ 
+<label class="radio">
+  <input type="radio" name="optionsRadios" id="optionsRadios1" value="option1" checked>
+  Выберите пункт 1—для бла бла бла...
+</label>
+<label class="radio">
+  <input type="radio" name="optionsRadios" id="optionsRadios2" value="option2">
+  Или выберите пункт 2—для бла бла бла...
+</label>
